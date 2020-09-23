@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952253%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-952367%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 12 Contributions in the Year 2020
+> 🏆 19 Contributions in the Year 2020
  > 
-> 📦 54.2 kB Used in Github's Storage 
+> 📦 54.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    4 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    4 commits      ████████████░░░░░░░░░░░░░   50.0% 
+🌆 Daytime    11 commits     ██████████████████░░░░░░░   73.33% 
+🌃 Evening    4 commits      ██████░░░░░░░░░░░░░░░░░░░   26.67% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      6 commits      ██████████████████░░░░░░░   75.0% 
-Wednesday    2 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      6 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Wednesday    9 commits      ███████████████░░░░░░░░░░   60.0% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
