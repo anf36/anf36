@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -62,11 +62,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     4 hrs 31 mins       █████████████████████████   100.0%
+Java                     6 hrs 28 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Study                    4 hrs 26 mins       ████████████████████████░   98.09% 
-Algo                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+Study                    6 hrs 23 mins       ████████████████████████░   98.67% 
+Algo                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33%
 
 ```
 
