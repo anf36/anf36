@@ -62,10 +62,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     53 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Study                    53 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
