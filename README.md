@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  > 
 > 📜 7 Public Repositories
  > 
-> 🔑 0 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
