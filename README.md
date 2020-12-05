@@ -29,9 +29,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories
+> 📜 8 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+8 Private Repository 
  > 
 **I'm a Night 🦉** 
 
